@@ -1,0 +1,14 @@
+{
+  "name": "docker-node-example",
+  "version": "1.0.0",
+  "description": "Docker run node example",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "author": "eusouodaniel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
